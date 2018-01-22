@@ -1,0 +1,18 @@
+defmodule Project2Bonus do
+  @moduledoc """
+  Documentation for Project2Bonus.
+  """
+
+  @doc """
+  Hello world.
+
+  ## Examples
+
+      iex> Project2Bonus.hello
+      :world
+
+  """
+  def hello do
+    :world
+  end
+end
